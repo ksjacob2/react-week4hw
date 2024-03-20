@@ -14,5 +14,9 @@ root.render(
       <h1>Weather App</h1>
       <Weather city="New York" />
     </div>
+    <p>
+      <a href="https://github.com/ksjacob2/react-week4hw">Open-source code</a>,
+      by Kate Jacob from SheCodes
+    </p>
   </StrictMode>
 );
