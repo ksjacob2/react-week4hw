@@ -12,8 +12,13 @@ root.render(
       <Weather city="New York" />
     </div>
     <p>
-      <a href="https://github.com/ksjacob2/react-week4hw">Open-source code</a>,
-      by Kate Jacob from SheCodes
+      <a
+        href="https://github.com/ksjacob2/react-week4hw"
+        rel="noopener noreferrer"
+      >
+        Open-source code
+      </a>
+      , by Kate Jacob from SheCodes
     </p>
   </StrictMode>
 );
